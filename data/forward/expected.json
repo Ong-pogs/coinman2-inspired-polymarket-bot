@@ -1,0 +1,1304 @@
+{
+  "state": {
+    "version": 1,
+    "strategy": "coinman",
+    "cash": 1000,
+    "initialCash": 1000,
+    "positions": {},
+    "seen": [
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:0",
+        "digest": "50730425fcac71540bdf159b9d97a8728f833275e8731e197dcf2a259b188bf8"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:0",
+        "digest": "928d5abe7626a367064c4934eca971dfb904cf2226fab55d96fbf37a6c2f201f"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:1",
+        "digest": "0c8b2ce6069743e13f0f9034790d29432f208c4febb994c4d46f17e93ae58879"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:1",
+        "digest": "8675a27470cfc9fc40728c71b24a647b6f37b4b572ce21ea908b2ce601cb6d91"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:2",
+        "digest": "fad84d2a96ea8e17c0a0c6182e52775baa2832450f6d7937cf9e4fc5ea64c9bc"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:2",
+        "digest": "a1ee6804c1a031742f12bde8e3a27363afe0ec9a16e5e8c9af898d6df2569391"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:3",
+        "digest": "073601bd8c5b9f6d8e37825af9a19f72b7808719322cda325eba72a6f078212a"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:3",
+        "digest": "fbdcef233db882f3002f81a360c4e5b7b8f6b041f6c75a3941d0b00cd779ca0e"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:4",
+        "digest": "dd3e2b0e928c48d437c9d222793801c47e9add1266140980440b9d2f1aaf6ea4"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:4",
+        "digest": "13e7fa64c3b3b9341c3f3ed27c39d98ba3e289f0e01c0759b86fc5844cc67cb1"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:5",
+        "digest": "13c5ffb827a536a9de13cf3e20e48beddbb637b82b4b6d0109605b7775e75da8"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:5",
+        "digest": "7f4f7616ae1efbf0f8e672c427ade21cc96210dbdcd0209df875e809894124e4"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:6",
+        "digest": "975976217f0ec34873ea09ed527d1bbab700d2b95021c1aec679b051dc088de7"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:6",
+        "digest": "54233cf6ae3b4585f8098cc8954ed617f7971f5af62b49e9765ac9a49972aa73"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:7",
+        "digest": "fb6cb4b6d1a990deedc6d8553777e13ae48d6e6f78b530c0c1446c1dba6840d0"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:7",
+        "digest": "c1d718754879528356067ec15b7dd4450de3c7bd5aa02fb16d3240c6cca0a2a7"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:8",
+        "digest": "e6d8f47f5dd547d0eb0b4555705d3e91189810e7edb731b73a13b8e9a265d460"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:8",
+        "digest": "3ba5ca2be859d2d4f36247931d141fee2bcb3a47a5135d84b60beadf6713de37"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:9",
+        "digest": "6dd3be2f1e412d9aea7c92a77c06b8e71c7c401e5ff2cfa10d878ccb64861d6e"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:9",
+        "digest": "f905edf8cc634e58e132c26d8d4107966b9ead63045fac88484121f57dc66462"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:10",
+        "digest": "3afe547f34434eabc7dc567d70ddc71b59cfcc2f683684249d9621bf196802a5"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:10",
+        "digest": "6b1dac5386b9877b09e5d4ce28d8cda9ae1439ebcd39fd410a78ea0d936222f8"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:11",
+        "digest": "770594c2a14f29fceea879378db4de1c002c8b14954e7a93219f8d7d6bcf9860"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:11",
+        "digest": "42291295dbc22aef243f4c016c95fd51c1083398a641e65a151037d755b1b6d9"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:12",
+        "digest": "3f4cb56b2444ebb6128f818794fbaefd8446357af23b8676f198b8fc5d0386e6"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:12",
+        "digest": "6bac6df287de0796c17fa2042f81170ea01dd03a0fc1c42003e2649902ecc9e2"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:13",
+        "digest": "049799312ce49dadb4dc78c8f6668e9f882aca6c622ccf0c94376ee3bac1c68b"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:13",
+        "digest": "2512628068e7ae33d2f31349802481fc565fa356d26e089420f6565f3ca831f4"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:14",
+        "digest": "ddc99907ef32136640e01b7482af0cc9ed7f7fce957724d2073089b68ada8076"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:14",
+        "digest": "cebf978b8a63da8bd1170b76ebd70c8d59884a0bf3c6200ba0ba0ad33ee3b4a2"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:15",
+        "digest": "79c93b2d1dbf2f8cba418899128bbb46dc6cf0e132914865f0737d0890cc3815"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:15",
+        "digest": "33255d3e9043ffd71aa2f5b0e196247128c2218b53a1de92e3b313854d35ee49"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:16",
+        "digest": "86d7ec10aeb05306656cba274c4be96cf65536453304b1013c7db3bf56f84330"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:16",
+        "digest": "2774f25b9c5d2793989c49a76e86160e6f865e676529cddd22de9064b8af7bbb"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:17",
+        "digest": "382cfff9f6fa0bf3bc7a9082317b114eb23ca0c732dbe44c94c427add25422c2"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:17",
+        "digest": "0cd304b9cfe28a53868f43d348ef41d30ba4274b4ff90234375828c8af51f17a"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:18",
+        "digest": "eb1b413290e904a5d2035c93e99f28428e48638e7e58186a3df54d7efa72c8c6"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:18",
+        "digest": "224496272d54c1774a12b47e24387121a79c7b06e8c8623923e83e9aa02e40fa"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:19",
+        "digest": "ec249c0f9aff143fc8e3c915018dbd17ffea75ea1f94587bfe03eb01fc31af80"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:19",
+        "digest": "40263323be2178891896a3fc2482f06e2f7efe26e38d2058da02fd386e787e28"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:20",
+        "digest": "2cc548e89d411aa489126e1ac7d057706c40e87195238dcb02037f8955d0406c"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:20",
+        "digest": "f1c2b2408b0bb055b9eef6e98da5fcc926f29a039a243435184083c87e9f77a6"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:21",
+        "digest": "77e3db3eda13c126cf745cea4cb7b05f7ef4e8f1e0a5c6cdcfbea297715a8847"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:21",
+        "digest": "8f89cb7d49c3037b9b3e91dd9bac45dcce798c8fc0db859f12516bcebf9aa37b"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:22",
+        "digest": "60ddddf49c2bf2e69cdaf847295b2e559b1edd0a62e533aac282fd0892754393"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:22",
+        "digest": "37dea26350cb2b16d16a8e712b10e44149c349b5f6c68819aa1aab46e01d82ae"
+      },
+      {
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:23",
+        "digest": "c53b03ca1234d76fa1d35b25717668fd33bcefac92efd152ee9f507fd3eb9715"
+      },
+      {
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:23",
+        "digest": "d6ec11b0ed9b14073dd44ef0771cc48bc4217295f811225d9cc76df3dc119cc7"
+      }
+    ],
+    "events": [
+      {
+        "index": 0,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:0",
+        "now": 1792723618785,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5397174229785129,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81885.93,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06338257702148709
+      },
+      {
+        "index": 1,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:0",
+        "now": 1792723619637,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4376748062848316,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81885.93,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07742519371516843
+      },
+      {
+        "index": 2,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:1",
+        "now": 1792723626014,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5424860419900513,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81879.22,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06061395800994862
+      },
+      {
+        "index": 3,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:1",
+        "now": 1792723626759,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.434801893818738,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81879.22,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.08029810618126199
+      },
+      {
+        "index": 4,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:2",
+        "now": 1792723631603,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5389893919405704,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81887.74,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06411060805942959
+      },
+      {
+        "index": 5,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:2",
+        "now": 1792723632010,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.43845035068915317,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81887.74,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07664964931084683
+      },
+      {
+        "index": 6,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:3",
+        "now": 1792723636850,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.534709925658547,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.12,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06565007434145298
+      },
+      {
+        "index": 7,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:3",
+        "now": 1792723637240,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.44289523725856295,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.12,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07496476274143704
+      },
+      {
+        "index": 8,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:4",
+        "now": 1792723642679,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5346677788770732,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.24,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06569222112292683
+      },
+      {
+        "index": 9,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:4",
+        "now": 1792723643317,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4429472952462544,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.24,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07215270475374558
+      },
+      {
+        "index": 10,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:5",
+        "now": 1792723649965,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5370916904967419,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81892.4,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06326830950325812
+      },
+      {
+        "index": 11,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:5",
+        "now": 1792723650768,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4404471572521508,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81892.4,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07465284274784922
+      },
+      {
+        "index": 12,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:6",
+        "now": 1792723658079,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5371024499404907,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81892.4,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06599755005950925
+      },
+      {
+        "index": 13,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:6",
+        "now": 1792723658761,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4404477705594222,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81892.4,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07465222944057781
+      },
+      {
+        "index": 14,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:7",
+        "now": 1792723664730,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5366650693847945,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81893.48,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06643493061520545
+      },
+      {
+        "index": 15,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:7",
+        "now": 1792723665250,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.44091089865455046,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81893.48,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.0851891013454496
+      },
+      {
+        "index": 16,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:8",
+        "now": 1792723670932,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5344515880691092,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.85,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06590841193089081
+      },
+      {
+        "index": 17,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:8",
+        "now": 1792723671310,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4432117050097325,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.85,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.08288829499026756
+      },
+      {
+        "index": 18,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:9",
+        "now": 1792723676137,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5344624179021475,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.84,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06589758209785246
+      },
+      {
+        "index": 19,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:9",
+        "now": 1792723676531,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4432080212212879,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81898.84,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07189197877871212
+      },
+      {
+        "index": 20,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:10",
+        "now": 1792723682310,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5357495315150583,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81895.75,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06461046848494167
+      },
+      {
+        "index": 21,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:10",
+        "now": 1792723682990,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.44188494832024616,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81895.75,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07321505167975384
+      },
+      {
+        "index": 22,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:11",
+        "now": 1792723689310,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5376561219583832,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81891.16,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06544387804161678
+      },
+      {
+        "index": 23,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:11",
+        "now": 1792723690025,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4399187821470053,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81891.16,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.0751812178529947
+      },
+      {
+        "index": 24,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:12",
+        "now": 1792723696843,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5404010192400264,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81884.53,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.0626989807599736
+      },
+      {
+        "index": 25,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:12",
+        "now": 1792723697518,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.43707770442113747,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81884.53,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07802229557886253
+      },
+      {
+        "index": 26,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:13",
+        "now": 1792723704110,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5404069005152389,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81884.54,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.0626930994847611
+      },
+      {
+        "index": 27,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:13",
+        "now": 1792723705305,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.43708221005465975,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81884.54,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07801778994534025
+      },
+      {
+        "index": 28,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:14",
+        "now": 1792723710906,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5420094746314007,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81880.67,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06109052536859927
+      },
+      {
+        "index": 29,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:14",
+        "now": 1792723712256,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.43542331416339786,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81880.67,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.08243668583660213
+      },
+      {
+        "index": 30,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:15",
+        "now": 1792723717106,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5308368326315194,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81907.7,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06952316736848063
+      },
+      {
+        "index": 31,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:15",
+        "now": 1792723717486,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.44700949310661486,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81907.7,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.0790905068933852
+      },
+      {
+        "index": 32,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:16",
+        "now": 1792723722576,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5269818579623151,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81916.97,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06511814203768496
+      },
+      {
+        "index": 33,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:16",
+        "now": 1792723723012,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4509814569098084,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81916.97,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07511854309019167
+      },
+      {
+        "index": 34,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:17",
+        "now": 1792723728754,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5269890815226088,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81916.97,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06511091847739126
+      },
+      {
+        "index": 35,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:17",
+        "now": 1792723729710,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4509829515161098,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81916.97,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07511704848389028
+      },
+      {
+        "index": 36,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:18",
+        "now": 1792723736385,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5270021773472839,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81916.96,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06509782265271613
+      },
+      {
+        "index": 37,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:18",
+        "now": 1792723737577,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4509804218778066,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81916.96,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07511957812219344
+      },
+      {
+        "index": 38,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:19",
+        "now": 1792723743090,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5326021568181627,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81903.53,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07049784318183727
+      },
+      {
+        "index": 39,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:19",
+        "now": 1792723743685,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4452263886282045,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81903.53,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.07263361137179547
+      },
+      {
+        "index": 40,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:20",
+        "now": 1792723749078,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.532605517398693,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81903.54,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.06772698260130705
+      },
+      {
+        "index": 41,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:20",
+        "now": 1792723749569,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.44523150487119567,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81903.54,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.0808684951288044
+      },
+      {
+        "index": 42,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:21",
+        "now": 1792723754867,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.5326169361449375,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81903.53,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 80000,
+            "upper": 82000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.059483063855062523
+      },
+      {
+        "index": 43,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:21",
+        "now": 1792723755329,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "NO_MODELED_EDGE",
+        "signal": {
+          "probability": 0.4452280281276406,
+          "volatility": 0.27395871143559397,
+          "candles": 168,
+          "spot": 81903.53,
+          "contract": {
+            "type": "terminal-range",
+            "symbol": "BTC/USDT",
+            "source": "binance",
+            "end": 1792771200000,
+            "lower": 82000,
+            "upper": 84000,
+            "rulesVerified": true
+          }
+        },
+        "netEdge": -0.08087197187235945
+      },
+      {
+        "index": 44,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:22",
+        "now": 1792723763294,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "STALE_REFERENCE"
+      },
+      {
+        "index": 45,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:22",
+        "now": 1792723764987,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "STALE_REFERENCE"
+      },
+      {
+        "index": 46,
+        "id": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84:23",
+        "now": 1792723774497,
+        "marketId": "0x638c6ab4cdb0e19115efa965869fb78f9c2b166dfb795659f4c4d0b3eda79f84",
+        "action": "SKIP",
+        "reason": "STALE_REFERENCE"
+      },
+      {
+        "index": 47,
+        "id": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab:23",
+        "now": 1792723775925,
+        "marketId": "0x3b49fc7a93499a4717eef64c96332c941fd5e81019bd4e314cf4f1f15d0d84ab",
+        "action": "SKIP",
+        "reason": "STALE_REFERENCE"
+      }
+    ],
+    "realized": 0,
+    "lastNow": 1792723775925
+  },
+  "report": {
+    "cash": 1000,
+    "realized": 0,
+    "openCost": 0,
+    "liquidationMarkPnl": 0,
+    "openPositions": 0,
+    "positions": [],
+    "events": 48
+  }
+}
