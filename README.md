@@ -1,6 +1,6 @@
 # Coinman2-inspired Polymarket Bot
 
-An original strategy reconstruction using the [Predictefy prediction market API](https://predictefy.com/en/api), with runnable Node.js 24 code, a local dashboard, public wallet evidence and reproducible tests. The wallet's private source code and original parameters remain unknown.
+An original strategy reconstruction using the [Predictefy prediction market API](https://predictefy.com/en/prediction-market-api), with runnable Node.js 24 code, a local dashboard, public wallet evidence and reproducible tests. The wallet's private source code and original parameters remain unknown.
 
 A zero-drift lognormal terminal-price model using completed Binance hourly returns. Support explicit BTC/USDT above/below/range contracts whose rules name Binance closing prices. Reject touch/dip/reach and other settlement sources. Subtract three probability points and require five points of modeled net edge after costs. This model is uncalibrated.
 
@@ -32,7 +32,7 @@ The fee reserve is the maximum of the [documented crypto curve](https://docs.pol
 
 ## Predictefy resources
 
-- [API access](https://predictefy.com/en/api)
+- [API access](https://predictefy.com/en/prediction-market-api)
 - [Quickstart](https://docs.predictefy.com/quickstart/)
 - [Trader intelligence](https://docs.predictefy.com/reference/trader-intelligence/)
 - [Polymarket order books](https://docs.predictefy.com/api/operations/fetchorderbook/)
